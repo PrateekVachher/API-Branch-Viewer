@@ -1,0 +1,17 @@
+ - installed
+	 - redirect_uris
+		 - client_id
+	 - token_uri
+	 - auth_provider_x509_cert_url
+	 - auth_uri
+	 - client_id
+		 - installed
+			 - redirect_uris
+			 - token_uri
+			 - auth_provider_x509_cert_url
+			 - auth_uri
+			 - client_id
+			 - client_secret
+			 - project_id
+	 - client_secret
+	 - project_id
